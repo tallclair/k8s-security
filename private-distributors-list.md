@@ -1,10 +1,18 @@
-## Private Distributors List
+# Private Distributors List
 
 This list is used to provide actionable information to multiple distribution
 vendors at once. This list is not intended for individuals to find out about
 security issues.
 
-### Embargo Policy
+## Table of Contents
+
+  * [Embargo Policy](#embargo-policy)
+  * [Contributing Back](#contributing-back)
+  * [Membership](#membership)
+    * [Membership Criteria](#membership-criteria)
+    * [Request to Join](#request-to-join)
+
+## Embargo Policy
 
 The information members receive on distributors-announce@kubernetes.io must not be
 made public, shared, nor even hinted at anywhere beyond the need-to-know within
@@ -26,7 +34,7 @@ we can assess how to not make the same mistake in the future.
 If you continue to leak information and break the policy outlined here, you
 will be removed from the list.
 
-### Contributing Back
+## Contributing Back
 
 This is a team effort. As a member of the list you must carry some water. This
 could be in the form of the following:
@@ -43,8 +51,7 @@ could be in the form of the following:
 - Help draft emails to the public disclosure mailing list.
 - Help with release notes.
 
-### Membership
-
+## Membership
 
 | Email		| Organization	|
 | ------------- |:-------------:|
